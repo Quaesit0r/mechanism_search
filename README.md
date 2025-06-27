@@ -5,10 +5,15 @@ This repository contains the code and resources for Constructing *A Large-Scale 
 For the dataset creation, the following packages are required:
 
 python==3.8.19
+
 numpy==1.24.3
+
 pandas==2.0.3
+
 rdkit==2024.3.3
+
 scipy==1.10.1
+
 tqdm==4.65.0
 
 For model training and prediction, the packages required is recorded in the respective folders.

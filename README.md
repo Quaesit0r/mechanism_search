@@ -19,9 +19,9 @@ For dataset creation, please prepare your database in a file which each line con
 # Model training and prediction
 We have examined our dataset with the following models:
 
--Retrosynthesis-Prediction Model: Located in the Retrosynthesis-Prediction folder.
--Transformer: Located in the Transformer folder.
--Graph2SMILES: Located in the Graph2SMILES folder.
+- Retrosynthesis-Prediction Model: Located in the Retrosynthesis-Prediction folder.
+- Transformer: Located in the Transformer folder.
+- Graph2SMILES: Located in the Graph2SMILES folder.
 
 For detailed setup and usage instructions, refer to the README.md file located in each model folder. Simply navigate to your preferred model’s folder and follow the steps outlined in its README.
 
